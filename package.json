@@ -1,0 +1,24 @@
+{
+	
+	"name": "giffo-geoip",
+	"version": "0.0.1",
+	"description": "giffo's geoip for node.js",
+	"author": "giffo <github@giffo.org>",
+	"main": "index.js",
+		
+	"repository": {
+		"type":"git",
+		"url":"https://github.com/giffo/geoip"
+	},
+	
+	"bugs": {
+		"url": "https://github.com/giffo/geoip/issues" 
+	},
+	
+	"keywords": [
+		"giffo-geoip", "geoip", "regionip", "countryip"
+	],
+	"license": "MIT"
+	
+	
+}
