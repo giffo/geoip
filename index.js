@@ -1,3 +1,5 @@
+/* Copyright (c) 2015 Giffo. All rights reserved.*/
+
 var fs = require("fs");
 var path = require("path");
 var sep = path.sep;
